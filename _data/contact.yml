@@ -1,0 +1,7 @@
+# - type: github
+#   icon: "fab fa-github"
+#   url: berlinrs/verdigris.github.io
+
+- type: rss
+  icon: "fas fa-rss"
+  noblank: true
