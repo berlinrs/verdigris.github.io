@@ -9,7 +9,7 @@ image:
   path: assets/img/declaration-of-intent.jpg
 ---
 
-We are a group of people interested in **Rust on embedded devices**. This group stems from the [Rust Berlin on Location](https://www.meetup.com/rust-berlin/) Meetup and has the following objectives:
+We are a group of people interested in **Rust on embedded devices**. This group stems from the [Rust Berlin on Location](https://berline.rs/) Meetup and has the following objectives:
 
 - learning and helping others to learn Rust for embedded devices and microcontrollers;
 - experiment with various types of hardware;
