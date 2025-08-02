@@ -22,12 +22,23 @@ title: Verdigris
 email: verdigris@nolog.ch
 description: >-
   <a href="https://en.wikipedia.org/wiki/Verdigris">Verdigris</a>: Copper acetate developed by human touch
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: '/'
 timezone: 'Europe/Berlin'
 avatar: 'assets/img/declaration-of-intent.jpg'
 lang: 'en'
-url: "verdigris.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://verdigris.github.io'
 github_username:  berlinrs
+
+lsi: false
+# safe: true
+# source: /
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
 
 # Build settings
 theme: jekyll-theme-chirpy
