@@ -15,12 +15,12 @@ We are a group of people interested in **Rust on embedded devices**. This group 
 - experiment with various types of hardware;
 - build a device that satisfies the above objectives.
 
-During our first meet-and-greet on 17 July 2025, it became clear that most participants shared at the following ideas: we want to learn more about Rust and embedded development for fun, and perhaps to _fill a gap_. Many of us felt that the market lacks technology and devices that treat their users fairly, and we hope to change that by building our own devices that meet these criteria:
+During our first meet-and-greet on 17 July 2025, it became clear that most participants shared the following ideas: we want to learn more about Rust and embedded development for fun, and perhaps to _fill a gap_. Many of us felt that the market lacks technology and devices that treat their users fairly, and we hope to change that by building our own devices that meet these criteria:
 
 - prevent programmed obsolescence;
 - be repairable and upgradeable, ideally with tools that can be found at home;
 - does not require a subscription and is free to use forever;
-- does not collect user data and is privacy aware.
+- does not collect user data and is privacy aware, and/or offer a way to collect data securely and on-premise.
 
 Clearly, the context in which this group was formed and its objectives call for maximum transparency and open-source development.
 
