@@ -22,11 +22,11 @@ title: Verdigris
 email: verdigris@nolog.ch
 description: >-
   <a href="https://en.wikipedia.org/wiki/Verdigris">Verdigris</a>: Copper acetate developed by human touch
-baseurl: '/'
+baseurl: '/verdigris'
 timezone: 'Europe/Berlin'
 avatar: 'assets/img/declaration-of-intent.jpg'
 lang: 'en'
-url: 'https://verdigris.github.io'
+url: 'https://berlinrs.github.io'
 github_username:  berlinrs
 
 lsi: false
